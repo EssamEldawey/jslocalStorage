@@ -1,0 +1,20 @@
+body{
+    background-color:black;
+    color:white;
+    margin:auto;
+    text-align:center;
+    text-decoration:none;
+    
+}
+h2{
+    text-decoration:underline;
+}
+table td{
+    text-align:center;
+    text-decoration:none;
+    color:yellow;
+    margin:40px;
+    padding: 30px ;
+    border: 2px solid red ;
+    border-bottom:none
+}
